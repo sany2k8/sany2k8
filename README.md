@@ -25,7 +25,6 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][activity]
 [<img align="left" alt="sany2k8 | Quicklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 
-<br />
 ---
 
 ### Languages and Tools:
@@ -48,16 +47,16 @@ Here are some facts about me:
 [<img align="left" alt="Splunk" width="26px" src="https://img.icons8.com/color/48/000000/splunk.png"/>][splunk]
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/64/json.png"/>][splunk]
 
-<br />
 ---
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 </p>
 
 **PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
-<br />
 
+<br />
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
 [website]: https://stackoverflow.com/users/story/1138192
