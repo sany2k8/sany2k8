@@ -25,6 +25,8 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][activity]
 [<img align="left" alt="sany2k8 | Quicklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 
+<br/>
+
 ---
 
 ### Languages and Tools:
@@ -46,6 +48,8 @@ Here are some facts about me:
 [<img align="left" alt="Regex" width="26px" src="https://img.icons8.com/officel/16/000000/regex.png"/>][regex]
 [<img align="left" alt="Splunk" width="26px" src="https://img.icons8.com/color/48/000000/splunk.png"/>][splunk]
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/64/json.png"/>][splunk]
+
+<br />
 
 ---
 
