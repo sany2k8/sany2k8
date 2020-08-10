@@ -5,15 +5,19 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently contributing on a [sany2k8][profile]!
+- 🔭 I’m currently contributing on [sany2k8][profile]
 - 🌱 I’m currently learning big data and data engineering.
 - 👯 I’m looking to collaborate on data engineering task.
 - 🤔 I’m ready to help with php, python, regex, aws, and so on.
-- 💬 Ask me about anything.
+- 💬 Ask me about anything data and code related
+- 🥅 2020 Goals: Help others on what I learned so far?
+- ⚡ Fun fact: I love to learn, code, pray, and play all game
 - 📫 How to reach me: [sany2k8][profile]
-- 😄 Pronouns: He/Him
-- 🥅 2020 Goals: Help others on what I learned so far.
-- ⚡ Fun fact: I love to play and play all sports.
+- 😄 Pronouns: He/Him/Sany
+
+<br />
+
+---
 
 ### Connect with me:
 
@@ -24,6 +28,8 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Quicklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -48,13 +54,12 @@ Here are some facts about me:
 <br />
 
 ---
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 </p>
 
-*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
+**PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
 
 <br />
 
