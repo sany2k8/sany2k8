@@ -15,8 +15,6 @@ Here are some facts about me:
 - 📫 How to reach me: [sany2k8][profile]
 - 😄 Pronouns: He/Him/Sany
 
-<br />
-
 ---
 
 ### Connect with me:
@@ -28,7 +26,6 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Quicklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 
 <br />
-
 ---
 
 ### Languages and Tools:
@@ -52,7 +49,6 @@ Here are some facts about me:
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/64/json.png"/>][splunk]
 
 <br />
-
 ---
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
@@ -60,7 +56,6 @@ Here are some facts about me:
 </p>
 
 **PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
-
 <br />
 
 
