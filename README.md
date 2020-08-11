@@ -28,6 +28,7 @@ Here are some facts about me:
 
 
 <br/>
+<br/>
 
 ---
 
@@ -50,6 +51,7 @@ Here are some facts about me:
 
 
 <br />
+<br />
 
 ---
 
@@ -63,6 +65,7 @@ Here are some facts about me:
 [<img align="left" alt="Vim" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
 [<img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 
+<br/>
 <br/>
 
 ---
