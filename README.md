@@ -30,7 +30,11 @@ Here are some facts about me:
 <br/>
 
 
+
+
 <br/>
+
+
 
 ### Programming Languages & Tools: :rocket:
 
@@ -50,7 +54,16 @@ Here are some facts about me:
 [<img align="left" alt="Json" width="60px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
 
 
+
+
 <br/>
+
+
+
+
+
+<br/>
+
 
 
 <br/>
@@ -66,10 +79,17 @@ Here are some facts about me:
 [<img align="left" alt="Vim" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
 [<img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 
+
+
+
 <br/>
 
 
+
+
 <br/>
+
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
