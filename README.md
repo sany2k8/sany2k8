@@ -27,6 +27,8 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Qwiklab" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 
+
+
 <br/>
 
 
@@ -52,25 +54,6 @@ Here are some facts about me:
 [<img align="left" alt="Regex" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
 [<img align="left" alt="Yii" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] 
 [<img align="left" alt="Json" width="60px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
-
-
-
-
-<br/>
-
-
-
-
-
-<br/>
-
-
-
-<br/>
-
-
-### IDE's and Software's: :fire:
-
 [<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
 [<img align="left" alt="Splunk" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
 [<img align="left" alt="PyCharm" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/pycharm.png"/>][pycharm]
@@ -90,11 +73,14 @@ Here are some facts about me:
 <br/>
 
 
+<div>
+ <p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
+ </p>
+</div>  
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
-</p>
+
 
 **PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
 
