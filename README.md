@@ -59,13 +59,10 @@ Here are some facts about me:
 <br/> <br/>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 
 
-
-
-**PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
 
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
