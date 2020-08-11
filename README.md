@@ -17,7 +17,7 @@ Here are some facts about me:
 
 ---
 
-### Connect with me:
+### Connect with me: :smiley:
 
 [<img align="left" alt="sany2k8.com" width="60px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sany2k8 | Twitter" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/twitter.png" />][twitter]
@@ -26,11 +26,12 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Qwiklab" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 
+
 <br/>
 
 ---
 
-### Programming Languages & Tools:
+### Programming Languages & Tools: :rocket:
 
 [<img align="left" alt="PHP" style="border:1px solid black"  width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
 [<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
@@ -47,11 +48,12 @@ Here are some facts about me:
 [<img align="left" alt="Json" width="60px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
 [<img align="left" alt="Yii" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii]
 
+
 <br />
 
 ---
 
-### IDE's and Software's:
+### IDE's and Software's: :fire:
 
 [<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
 [<img align="left" alt="Splunk" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
@@ -60,7 +62,6 @@ Here are some facts about me:
 [<img align="left" alt="Ubuntu" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/ubuntu.png"/>][ubuntu]
 [<img align="left" alt="Vim" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
 [<img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
-
 
 <br/>
 
@@ -75,6 +76,7 @@ Here are some facts about me:
 **PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
 
 <br />
+
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
 [website]: https://stackoverflow.com/users/story/1138192
