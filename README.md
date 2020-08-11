@@ -26,7 +26,7 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Qwiklab" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 
-<br/> <br/>
+<br/> <br/> <br/>
 
 
 ### Programming Languages & Tools: :rocket:
@@ -58,10 +58,10 @@ Here are some facts about me:
 
 <br/> <br/>
 
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
+
 
 
 
