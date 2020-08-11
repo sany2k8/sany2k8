@@ -27,16 +27,10 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Qwiklab" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 
-<br/>
-<br/>
-<br/>
-
 
 ### Programming Languages & Tools: :rocket:
 
-<br/>
-
-[<img align="left" alt="PHP" style="border:1px solid black"  width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
+[<img align="left" alt="PHP" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
 [<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
 [<img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/sql.png" />][sqltag]
 [<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/git.png" />][gittag]
@@ -49,16 +43,11 @@ Here are some facts about me:
 [<img align="left" alt="PostGreSql" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
 [<img align="left" alt="Regex" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
 [<img align="left" alt="Json" width="60px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
-[<img align="left" alt="Yii" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii]
+[<img align="left" alt="Yii" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] <br/> <br/>
 
-<br/>
-<br/>
-<br/>
 
 
 ### IDE's and Software's: :fire:
-
-<br/>
 
 [<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
 [<img align="left" alt="Splunk" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
