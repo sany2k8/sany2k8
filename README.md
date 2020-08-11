@@ -29,12 +29,12 @@ Here are some facts about me:
 
 <br/>
 <br/>
-
-
+<br/>
 
 
 ### Programming Languages & Tools: :rocket:
 
+<br/>
 
 [<img align="left" alt="PHP" style="border:1px solid black"  width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
 [<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
@@ -53,12 +53,12 @@ Here are some facts about me:
 
 <br/>
 <br/>
-
-
+<br/>
 
 
 ### IDE's and Software's: :fire:
 
+<br/>
 
 [<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
 [<img align="left" alt="Splunk" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
@@ -69,8 +69,6 @@ Here are some facts about me:
 [<img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 
 
----
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
@@ -78,7 +76,7 @@ Here are some facts about me:
 
 **PS:** Top languages does not indicate my skill level or something like that, it is just a github metric of which languages I have the most code on github.
 
-<br />
+<br/>
 
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
