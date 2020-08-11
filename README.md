@@ -27,9 +27,6 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Github" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 
 
-<br/>
-<br/>
-
 ---
 
 ### Programming Languages & Tools: :rocket:
@@ -49,10 +46,6 @@ Here are some facts about me:
 [<img align="left" alt="Json" width="60px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
 [<img align="left" alt="Yii" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii]
 
-
-<br />
-<br />
-<br />
 
 ---
 
