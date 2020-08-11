@@ -20,47 +20,36 @@ Here are some facts about me:
 
 ### Connect with me: :smiley:
 
-[<img align="left" alt="sany2k8.com" width="60px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sany2k8 | Twitter" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/twitter.png" />][twitter]
-[<img align="left" alt="sany2k8 | LinkedIn" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/linkedin.png" />][linkedin]
-[<img align="left" alt="sany2k8 | Stackoverflow" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/stackoverflow.png" />][activity]
-[<img align="left" alt="sany2k8 | Qwiklab" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
-[<img align="left" alt="sany2k8 | Github" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
-
-
-
-<br/>
-
-
-
-
-<br/>
-
-
+[<img align="left" alt="sany2k8.com" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sany2k8 | Twitter" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/twitter.png" />][twitter]
+[<img align="left" alt="sany2k8 | LinkedIn" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/linkedin.png" />][linkedin]
+[<img align="left" alt="sany2k8 | Stackoverflow" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/stackoverflow.png" />][activity]
+[<img align="left" alt="sany2k8 | Qwiklab" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
+[<img align="left" alt="sany2k8 | Github" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]<br/>
 
 ### Programming Languages & Tools: :rocket:
 
-[<img align="left" alt="PHP" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
-[<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
-[<img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/sql.png" />][sqltag]
-[<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/git.png" />][gittag]
-[<img align="left" alt="Elasticsearch" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/elasticsearch.png" />][elasticsearch]
-[<img align="left" alt="Solr" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/solr.png" />][solr]
-[<img align="left" alt="Pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][pandas]
-[<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/mysql.png" />][mysqltag]
-[<img align="left" alt="PostGreSql" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/postgresql.png" />][postgrestag]
-[<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/javascript.png" />][jstag]
-[<img align="left" alt="PostGreSql" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
-[<img align="left" alt="Regex" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
-[<img align="left" alt="Yii" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] 
-[<img align="left" alt="Json" width="60px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
-[<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
-[<img align="left" alt="Splunk" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
-[<img align="left" alt="PyCharm" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/pycharm.png"/>][pycharm]
-[<img align="left" alt="PhpStorm" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/phpstorm.png"/>][phpstorm]
-[<img align="left" alt="Ubuntu" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/ubuntu.png"/>][ubuntu]
-[<img align="left" alt="Vim" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
-[<img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
+[<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
+[<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
+[<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/sql.png" />][sqltag]
+[<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/git.png" />][gittag]
+[<img align="left" alt="Elasticsearch" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/elasticsearch.png" />][elasticsearch]
+[<img align="left" alt="Solr" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/solr.png" />][solr]
+[<img align="left" alt="Pandas" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][pandas]
+[<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/mysql.png" />][mysqltag]
+[<img align="left" alt="PostGreSql" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/postgresql.png" />][postgrestag]
+[<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/javascript.png" />][jstag]
+[<img align="left" alt="PostGreSql" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
+[<img align="left" alt="Regex" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
+[<img align="left" alt="Yii" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] 
+[<img align="left" alt="Json" width="45px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
+[<img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
+[<img align="left" alt="Splunk" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
+[<img align="left" alt="PyCharm" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/pycharm.png"/>][pycharm]
+[<img align="left" alt="PhpStorm" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/phpstorm.png"/>][phpstorm]
+[<img align="left" alt="Ubuntu" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/ubuntu.png"/>][ubuntu]
+[<img align="left" alt="Vim" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
+[<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 
 
 <br/>
