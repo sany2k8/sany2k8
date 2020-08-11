@@ -47,7 +47,8 @@ Here are some facts about me:
 [<img align="left" alt="PostGreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][awstag]
 [<img align="left" alt="Regex" width="26px" src="https://img.icons8.com/officel/16/000000/regex.png"/>][regex]
 [<img align="left" alt="Splunk" width="26px" src="https://img.icons8.com/color/48/000000/splunk.png"/>][splunk]
-[<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/64/json.png"/>][splunk]
+[<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
+[<img align="left" alt="Yii" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg"/>][yii]
 
 <br />
 
@@ -87,3 +88,4 @@ Here are some facts about me:
 [docker]: https://stackoverflow.com/search?q=user:1138192+[docker]
 [ubuntu]: https://stackoverflow.com/search?q=user:1138192+[ubuntu]
 [phpstorm]: https://stackoverflow.com/search?q=user:1138192+[phpstorm]
+[yii]: https://stackoverflow.com/search?q=user:1138192+[yii]
