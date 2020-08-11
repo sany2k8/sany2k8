@@ -27,6 +27,7 @@ Here are some facts about me:
 [<img align="left" alt="sany2k8 | Qwiklab" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="60px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 
+<br/>
 
 ---
 
