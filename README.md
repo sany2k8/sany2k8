@@ -20,9 +20,9 @@ Here are some facts about me:
 ### Connect with me:
 
 [<img align="left" alt="sany2k8.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sany2k8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sany2k8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sany2k8 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][activity]
+[<img align="left" alt="sany2k8 | Twitter" width="22px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/twitter.png" />][twitter]
+[<img align="left" alt="sany2k8 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/linkedin.png" />][linkedin]
+[<img align="left" alt="sany2k8 | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/stackoverflow.png" />][activity]
 [<img align="left" alt="sany2k8 | Quicklab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
 
 <br/>
@@ -31,24 +31,24 @@ Here are some facts about me:
 
 ### Languages and Tools:
 
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />][phptag]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqltag]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gittag]
-[<img align="left" alt="Elasticsearch" width="26px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />][elasticsearch]
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/sql.png" />][sqltag]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/git.png" />][gittag]
+[<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/elasticsearch.png" />][elasticsearch]
 [<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][pandas]
-[<img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>][ubuntu]
-[<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][pycharm]
-[<img align="left" alt="PhpStorm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg"/>][phpstorm]
-[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>][docker]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysqltag]
-[<img align="left" alt="PostGreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgrestag]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jstag]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythontag]
-[<img align="left" alt="PostGreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][awstag]
-[<img align="left" alt="Regex" width="26px" src="https://img.icons8.com/officel/16/000000/regex.png"/>][regex]
-[<img align="left" alt="Splunk" width="26px" src="https://img.icons8.com/color/48/000000/splunk.png"/>][splunk]
+[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/ubuntu.png"/>][ubuntu]
+[<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/pycharm.png"/>][pycharm]
+[<img align="left" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/phpstorm.png"/>][phpstorm]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/mysql.png" />][mysqltag]
+[<img align="left" alt="PostGreSql" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/postgresql.png" />][postgrestag]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/javascript.png" />][jstag]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
+[<img align="left" alt="PostGreSql" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
+[<img align="left" alt="Regex" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
+[<img align="left" alt="Splunk" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
-[<img align="left" alt="Yii" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg"/>][yii]
+[<img align="left" alt="Yii" width="26px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii]
 
 <br />
 
