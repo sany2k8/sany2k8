@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Here are some facts about me:
+I am a son, a brother, a friend. Here are some facts about me:
 
 - 🔭 I’m currently contributing on [sany2k8][profile]
 - 🌱 I’m currently learning big data and data engineering.
@@ -54,11 +54,12 @@ Here are some facts about me:
 [<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 
 
-<br/> <br/>
+<br/> <br/> <br/> <br/>
+
+
+[![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny)
 
 <br/> <br/>
-
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 
