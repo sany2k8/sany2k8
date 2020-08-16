@@ -1,7 +1,7 @@
 
 [![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
 
-<img src="https://sany-github-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="880" height="96" />
+<img src="https://sany-github-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="800" height="150" />
 
 ### Hi there 👋
 
@@ -69,11 +69,11 @@ I am a son, a brother, a friend. Here are some facts about me:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 
 <br>
-<div align="center">
+<div align="center" width="858">
   <img src="https://sany-github-linkedin.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
-  <img src="https://sany-github-linkedin.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=10" width="400" height="280" />
+  <img src="https://sany-github-linkedin.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=7" width="400" height="280" />
 </div>
-<div align="center">
+<div align="center" width="858">
    <img src="https://sany-github-linkedin.vercel.app/education?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
    <img src="https://sany-github-linkedin.vercel.app/languages?username=md-sany-ahmed-9ab00745" width="400" height="280" />
 </div>
