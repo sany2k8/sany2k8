@@ -56,7 +56,7 @@ I am a son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 
 
-<br/> <br/> <br/> <br/>
+<br/> <br/> <br/> 
 
 [![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny)
 
@@ -67,7 +67,7 @@ I am a son, a brother, a friend. Here are some facts about me:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sany2k8&layout=compact&theme=radical" />
 </a>
 
-<br/> <br/> <br/>
+<br/> <br/> 
 
 <div align="center" style="width:858px;">
   <img src="https://sany-github-linkedin.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
