@@ -1,7 +1,7 @@
 
 [![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
 
-<img src="https://sany-github-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="750" height="100" />
+<img src="https://sany-github-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="864" height="96/>
 
 ### Hi there 👋
 
@@ -58,15 +58,11 @@ I am a son, a brother, a friend. Here are some facts about me:
 
 <br/> <br/> <br/> <br/>
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
+</div>
+
 [![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny)
-
-
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 
 <br>
 <div align="center">
