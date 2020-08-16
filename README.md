@@ -64,7 +64,7 @@ I am a son, a brother, a friend. Here are some facts about me:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
 
 <br>
-<div align="center" width="858">
+<div align="center" style="width:858px;">
   <img src="https://sany-github-linkedin.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
   <img src="https://sany-github-linkedin.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=7" width="400" height="280" />
 </div>
