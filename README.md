@@ -1,7 +1,7 @@
 
 [![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
 
-<img src="https://sany-github-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="880" height="96" />
+<img src="https://sany-github-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="890" height="96" />
 
 ### Hi there 👋
 
