@@ -79,7 +79,13 @@ I am a son, a brother, a friend. Here are some facts about me:
 </div>
 <br>
 
-### Powered by [github-readme-linkedin](https://github.com/sany2k8/github-readme-linkedin)<h2>
+### Powered by 
+
+[github-readme-linkedin](https://github.com/sany2k8/github-readme-linkedin)
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
 
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
