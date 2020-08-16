@@ -60,8 +60,12 @@ I am a son, a brother, a friend. Here are some facts about me:
 
 [![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny)
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
+<a href="https://github.com/sany2k8/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sany2k8&show_icons=true&include_all_commits=true&theme=radical" alt="Sany's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sany2k8&layout=compact&theme=radical" />
+</a>
 
 <br>
 <div align="center" style="width:858px;">
