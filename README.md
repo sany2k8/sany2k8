@@ -49,7 +49,7 @@ A son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="PostGreSql" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/postgresql.png" />][postgrestag]
 [<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/javascript.png" />][jstag]
 [<img align="left" alt="Anaconda" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/anaconda.svg" />][activity]
-
+<br>
 [<img align="left" alt="AWS" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
 [<img align="left" alt="Regex" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
 [<img align="left" alt="Yii" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] 
