@@ -28,6 +28,8 @@ A son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="sany2k8 | Qwiklab" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/qwiklabs.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 [<img align="left" alt="sany2k8 | Skype" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/skype.svg" />][skype]
+[<img align="left" alt="sany2k8 | Gmail" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/gmail.svg" />][activity]
+[<img align="left" alt="sany2k8 | Facebook" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/facebook.svg" />][facebook]
 
 <br/> <br/> <br/>
 
@@ -36,14 +38,17 @@ A son, a brother, a friend. Here are some facts about me:
 
 [<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
 [<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
+[<img align="left" alt="sany2k8 | Apache Kafka" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/apachekafka.svg" />][activity]
 [<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/sql.png" />][sqltag]
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/git.png" />][gittag]
 [<img align="left" alt="Elasticsearch" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/elasticsearch.png" />][elasticsearch]
 [<img align="left" alt="Solr" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/solr.png" />][solr]
 [<img align="left" alt="Pandas" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][pandas]
 [<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/mysql.png" />][mysqltag]
+[<img align="left" alt="sany2k8 | REPL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/repl-dot-it.svg" />][activity]
 [<img align="left" alt="PostGreSql" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/postgresql.png" />][postgrestag]
 [<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/javascript.png" />][jstag]
+[<img align="left" alt="sany2k8 | Anaconda" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/anaconda.svg" />][activity]
 [<img align="left" alt="PostGreSql" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
 [<img align="left" alt="Regex" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
 [<img align="left" alt="Yii" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] 
@@ -55,6 +60,8 @@ A son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="Ubuntu" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/ubuntu.png"/>][ubuntu]
 [<img align="left" alt="Vim" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
 [<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
+[<img align="left" alt="sany2k8 | Swagger" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/swagger.svg" />][activity]
+
 
 
 <br/> <br/> <br/>  <br/>
@@ -97,6 +104,7 @@ A son, a brother, a friend. Here are some facts about me:
 [linkedin]: https://www.linkedin.com/in/md-sany-ahmed-9ab00745
 [github]: https://github.com/sany2k8
 [skype]: https://join.skype.com/invite/tfJJHkOgewyZ
+[facebook]: https://www.facebook.com/IAmAlwaysSunny
 [phptag]: https://stackoverflow.com/search?q=user:1138192+[php]
 [sqltag]: https://stackoverflow.com/search?q=user:1138192+[sql]
 [gittag]: https://stackoverflow.com/search?q=user:1138192+[git]
