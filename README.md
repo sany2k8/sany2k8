@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am a son, a brother, a friend. Here are some facts about me:
+A son, a brother, a friend. Here are some facts about me:
 
 - 🔭 I’m currently contributing on [sany2k8][profile]
 - 🌱 I’m currently learning big data and data engineering.
@@ -25,8 +25,9 @@ I am a son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="sany2k8.com" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sany2k8 | LinkedIn" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/linkedin.png" />][linkedin]
 [<img align="left" alt="sany2k8 | Stackoverflow" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/stackoverflow.png" />][activity]
-[<img align="left" alt="sany2k8 | Qwiklab" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />][quicklab]
+[<img align="left" alt="sany2k8 | Qwiklab" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/qwiklabs.svg" />][quicklab]
 [<img align="left" alt="sany2k8 | Github" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
+[<img align="left" alt="sany2k8 | Skype" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/skype.svg" />][skype]
 
 <br/> <br/> <br/>
 
@@ -81,11 +82,9 @@ I am a son, a brother, a friend. Here are some facts about me:
 
 ### Powered by 
 
-[github-readme-linkedin](https://github.com/sany2k8/github-readme-linkedin)
-
-[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-[github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
+[readme-linkedin](https://github.com/sany2k8/github-readme-linkedin)
+[readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
 
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
@@ -97,6 +96,7 @@ I am a son, a brother, a friend. Here are some facts about me:
 [instagram]: https://instagram.com/sany2k8
 [linkedin]: https://www.linkedin.com/in/md-sany-ahmed-9ab00745
 [github]: https://github.com/sany2k8
+[skype]: https://join.skype.com/invite/tfJJHkOgewyZ
 [phptag]: https://stackoverflow.com/search?q=user:1138192+[php]
 [sqltag]: https://stackoverflow.com/search?q=user:1138192+[sql]
 [gittag]: https://stackoverflow.com/search?q=user:1138192+[git]
