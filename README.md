@@ -1,7 +1,7 @@
 
 [![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
 
-<img src="https://github-readme-linkedin.sany2k8.vercel.app/user?username=md-sany-ahmed-9ab00745" width="860" height="96" />
+<img src="https://github-readme-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="860" height="96" />
 
 ### Hi there 👋
 
@@ -79,12 +79,12 @@ A son, a brother, a friend. Here are some facts about me:
 <br/> <br/> 
 
 <div align="center" style="width:858px;">
-  <img src="https://github-readme-linkedin-git-master.sany2k8.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
-  <img src="https://github-readme-linkedin-git-master.sany2k8.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=7" width="400" height="280" />
+  <img src="https://github-readme-linkedin.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
+  <img src="https://github-readme-linkedin.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=7" width="400" height="280" />
 </div>
 <div align="center" width="858">
-   <img src="https://github-readme-linkedin-git-master.sany2k8.vercel.app/education?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
-   <img src="https://github-readme-linkedin-git-master.sany2k8.vercel.app/languages?username=md-sany-ahmed-9ab00745" width="400" height="280" />
+   <img src="https://github-readme-linkedin.vercel.app/education?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
+   <img src="https://github-readme-linkedin.vercel.app/languages?username=md-sany-ahmed-9ab00745" width="400" height="280" />
 </div>
 <br>
 
