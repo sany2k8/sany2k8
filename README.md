@@ -19,7 +19,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sany2k8" alt="sany2k8" /> </p>
+<p align="left"> <img src="https://github-readme-linkedin.vercel.app?username=sany2k8" alt="sany2k8" /> </p>
 
 ### Connect with me: :smiley:
 
