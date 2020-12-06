@@ -19,7 +19,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 ---
 
-<!--<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>!-->
+<!--<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>-->
 
 ### Connect with me: :smiley:
 
