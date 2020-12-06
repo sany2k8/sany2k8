@@ -1,7 +1,7 @@
 
 [![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
 
-<img src="https://github-readme-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="860" height="96" />
+<!--<img src="https://github-readme-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="860" height="96" />-->
 
 ### Hi there 👋
 
@@ -19,7 +19,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 ---
 
-<!--<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>-->
+<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>
 
 ### Connect with me: :smiley:
 
