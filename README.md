@@ -19,7 +19,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 ---
 
-<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>
+<!--<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>!-->
 
 ### Connect with me: :smiley:
 
@@ -78,7 +78,7 @@ A son, a brother, a friend. Here are some facts about me:
 </a>
 
 <br/> <br/> 
-
+<!--
 <div align="center" style="width:858px;">
   <img src="https://github-readme-linkedin.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
   <img src="https://github-readme-linkedin.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=7" width="400" height="280" />
@@ -88,7 +88,7 @@ A son, a brother, a friend. Here are some facts about me:
    <img src="https://github-readme-linkedin.vercel.app/languages?username=md-sany-ahmed-9ab00745" width="400" height="280" />
 </div>
 <br>
-
+-->
 ### Powered by 
 
 [readme-linkedin](https://github.com/sany2k8/github-readme-linkedin)
