@@ -65,6 +65,8 @@ A son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="Swagger" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/swagger.svg" />][activity]
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saby2k8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br/> <br/> <br/>  <br/>
 
