@@ -76,7 +76,6 @@ A son, a brother, a friend. Here are some facts about me:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&layout=compact&theme=radical" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sany2k8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/> <br/> 
 <!--
@@ -90,11 +89,6 @@ A son, a brother, a friend. Here are some facts about me:
 </div>
 <br>
 -->
-### Powered by 
-
-[readme-linkedin](https://github.com/sany2k8/github-readme-linkedin)
-[readme-stats](https://github.com/anuraghazra/github-readme-stats)
-[readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
 
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
