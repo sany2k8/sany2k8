@@ -10,9 +10,9 @@ A son, a brother, a friend. Here are some facts about me:
 - 🔭 I’m currently contributing on [sany2k8][profile]
 - 🌱 I’m currently learning big data and data engineering.
 - 👯 I’m looking to collaborate on data engineering task.
-- 🤔 I’m ready to help with php, python, regex, aws, and so on.
-- 💬 Ask me about anything data and code related
-- 🥅 2020 Goals: Help others on what I learned so far?
+- 🤔 I’m ready to help with php, python, regex, database, aws, and so on.
+- 💬 Ask me about anything data and database related
+- 🥅 2021 Goals: Help others on what I learned so far?
 - ⚡ Fun fact: I love to learn, code, pray, and play all game
 - 📫 How to reach me: [sany2k8][profile]
 - 😄 Pronouns: He/Him/Sany
