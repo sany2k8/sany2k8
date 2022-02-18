@@ -63,8 +63,8 @@ A son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="Vim" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
 [<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
 [<img align="left" alt="Swagger" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/swagger.svg" />][activity]
-[<img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/django-plain.svg" />][django]
-[<img align="left" alt="Jupyter" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/jupyter-original-wordmark.svg" />][jupyter]
+[<img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/django-plain.svg" />]
+[<img align="left" alt="Jupyter" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/jupyter-original-wordmark.svg" />]
 
 
 <br/> <br/> <br/>  <br/>
