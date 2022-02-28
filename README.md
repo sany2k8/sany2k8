@@ -9,8 +9,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 - 🔭 I’m currently contributing on [sany2k8][profile]
 - 🌱 I’m currently learning big data and data engineering.
-- 👯 I’m looking to collaborate on data engineering task.
-- 🤔 I’m ready to help with php, python, javascript, regex, database, API, aws, and so on.
+- 🤔 I’m ready to help with php, python, javascript, regex, databases, API, aws, and so on.
 - 💬 Ask me about anything data and database related.
 - 🥅 2022 Goals: Learn and help others on what I learned so far?
 - ⚡ Fun fact: I love to learn, code, pray, and play all types of game.
