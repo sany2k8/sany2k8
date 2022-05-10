@@ -82,9 +82,14 @@ A son, a brother, a friend. Here are some facts about me:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sany2k8&label=Profile%20views&color=0e75b6&style=flat" alt="sany2k8" /> </p>
 
+<details><summary>Activity Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sany2k8&theme=chartreuse-dark&no-frame=true" /></p>
+</details>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sany2k8" alt="sany2k8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sany2k8" target="blank"><img src="https://img.shields.io/twitter/follow/sany2k8?logo=twitter&style=for-the-badge" alt="sany2k8" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/sany2k8" target="blank"><img src="https://img.shields.io/twitter/follow/sany2k8?logo=twitter&style=for-the-badge" alt="sany2k8" /></a> </p> -->
 
 <!--
 <div align="center" style="width:858px;">
