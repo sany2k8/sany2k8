@@ -80,7 +80,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 <br/> <br/> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sany2k8&label=Profile%20views&color=0e75b6&style=flat" alt="sany2k8" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sany2k8&label=Profile%20views&color=0e75b6&style=flat" alt="sany2k8" /> </p> -->
 
 <details><summary>Activity Graph</summary>
 <p align="left">
