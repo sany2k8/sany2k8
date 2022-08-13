@@ -13,7 +13,6 @@ A son, a brother, a friend. Here are some facts about me:
 - 💬 Ask me about anything data and database related.
 - 🥅 2022 Goals: Learn and help others on what I learned so far?
 - ⚡ Fun fact: I love to learn, code, pray, and play all types of game.
-- 📫 How to reach me: [sany2k8][profile]
 - 😄 Pronouns: He/Him
 
 ---
