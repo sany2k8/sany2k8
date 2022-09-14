@@ -28,7 +28,6 @@ A son, a brother, a friend. Here are some facts about me:
 [<img align="left" alt="sany2k8 | Github" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
 [<img align="left" alt="sany2k8 | Skype" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/skype.svg" />][skype]
 [<img align="left" alt="sany2k8 | Gmail" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/gmail.svg" />][activity]
-[<img align="left" alt="sany2k8 | Facebook" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/facebook.svg" />][facebook]
 
 <br/> <br/> <br/>
 
@@ -107,13 +106,9 @@ A son, a brother, a friend. Here are some facts about me:
 [website]: https://stackoverflow.com/users/story/1138192
 [activity]: https://stackoverflow.com/users/1138192/always-sunny?tab=topactivity
 [quicklab]: https://www.qwiklabs.com/public_profiles/df9e282a-1e18-4aca-b807-68a66d150f41
-[twitter]: https://twitter.com/MdSany2k8
-[youtube]: https://youtube.com/sany2k8
-[instagram]: https://instagram.com/sany2k8
 [linkedin]: https://www.linkedin.com/in/md-sany-ahmed-9ab00745
 [github]: https://github.com/sany2k8
 [skype]: https://join.skype.com/invite/tfJJHkOgewyZ
-[facebook]: https://www.facebook.com/IAmAlwaysSunny
 [phptag]: https://stackoverflow.com/search?q=user:1138192+[php]
 [sqltag]: https://stackoverflow.com/search?q=user:1138192+[sql]
 [gittag]: https://stackoverflow.com/search?q=user:1138192+[git]
