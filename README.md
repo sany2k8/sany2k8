@@ -65,7 +65,7 @@ A son, a brother, a friend. Here are some facts about me:
 
 <br/> <br/> <br/>  <br/>
 
-[![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny)
+<!-- [![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny) -->
 
 <a href="https://github.com/sany2k8/github-readme-stats">
   <img align="center" width="436" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&include_all_commits=true&theme=radical" alt="Sany's github stats" />
@@ -79,10 +79,10 @@ A son, a brother, a friend. Here are some facts about me:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sany2k8&label=Profile%20views&color=0e75b6&style=flat" alt="sany2k8" /> </p> -->
 
-<details><summary>Activity Graph</summary>
+<!-- <details><summary>Activity Graph</summary>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sany2k8&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
+</details> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sany2k8" alt="sany2k8" /></a> </p>
 
