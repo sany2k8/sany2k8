@@ -3,7 +3,7 @@
 
 <!--<img src="https://github-readme-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="860" height="96" />-->
 
-### Hi there 👋
+## <picture><img src = "https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/about_me.gif" width = 50px></picture> About me
 
 A son, a brother, a friend. Here are some facts about me:
 
