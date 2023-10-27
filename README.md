@@ -11,7 +11,7 @@ A son, a brother, a friend. Here are some facts about me:
 - 🌱 I’m currently learning software engineering, big data and data engineering.
 - 🤔 I’m ready to help with php, python, javascript, regex, databases, API, aws, and so on.
 - 💬 Ask me about anything data and database related, I'll try my best to help you.
-- 🥅 2022 Goals: Learn and help others on what I learned so far?
+- 🥅 2023 Goals: Learn and help others on what I learned so far?
 - ⚡ Fun fact: I love to learn, code, pray, and play all types of game.
 
 ---
