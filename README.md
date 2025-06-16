@@ -1,7 +1,7 @@
 
 [![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
 
-<!--<img src="https://github-readme-linkedin.vercel.app/user?username=md-sany-ahmed-9ab00745" width="860" height="96" />-->
+
 
 ## <picture><img src = "https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/about_me.gif" width = 50px></picture> About me
 
@@ -16,7 +16,6 @@ A son, a brother, a friend. Here are some facts about me:
 
 ---
 
-<!--<p align="left"> <img src="https://vercel.com/sany2k8/github-readme-linkedin-v2/c283v9p8a?username=sany2k8" alt="sany2k8" /> </p>-->
 
 ### Connect with me: :smiley:
 
@@ -77,28 +76,8 @@ A son, a brother, a friend. Here are some facts about me:
 
 <br/> <br/> 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sany2k8&label=Profile%20views&color=0e75b6&style=flat" alt="sany2k8" /> </p> -->
-
-<!-- <details><summary>Activity Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sany2k8&theme=chartreuse-dark&no-frame=true" /></p>
-</details> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sany2k8" alt="sany2k8" /></a> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/sany2k8" target="blank"><img src="https://img.shields.io/twitter/follow/sany2k8?logo=twitter&style=for-the-badge" alt="sany2k8" /></a> </p> -->
-
-<!--
-<div align="center" style="width:858px;">
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
-  <img src="https://github-readme-linkedin.vercel.app/skills?username=md-sany-ahmed-9ab00745&limit=7" width="400" height="280" />
-</div>
-<div align="center" width="858">
-   <img src="https://github-readme-linkedin.vercel.app/education?username=md-sany-ahmed-9ab00745&limit=10" width="450" height="280" />
-   <img src="https://github-readme-linkedin.vercel.app/languages?username=md-sany-ahmed-9ab00745" width="400" height="280" />
-</div>
-<br>
--->
 
 
 [profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
