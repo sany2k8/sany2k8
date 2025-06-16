@@ -1,110 +1,96 @@
+<!-- GitHub Profile README for sany2k8 -->
+<div align="center">
 
-[![](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)](https://stackoverflow.com/users/story/1138192)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sany2k8/sany2k8/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sany2k8/sany2k8/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sany2k8/sany2k8/output/pacman-contribution-graph.svg">
+</picture>
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=sany2k8&style=for-the-badge&color=blue)](https://github.com/sany2k8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--sany--ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-sany-ahmed-9ab00745/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-AlwaysSanny-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1138192/a-l-w-a-y-s-s-u-n-n-y)
 
-
-## <picture><img src = "https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/about_me.gif" width = 50px></picture> About me
-
-A son, a brother, a friend. Here are some facts about me:
-
-- 🔭 I’m currently infrequently contributing on [sany2k8][profile]
-- 🌱 I’m learning software engineering, big data, and data engineering.
-- 🤔 I’m ready to help with PHP, Python, JavaScript, regular expressions, databases, APIs, AWS, and more.
-- 💬 Ask me about anything data and database-related, and I'll try my best to help you.
-- 🥅 2025 Goals: Learn and help others with what I have learned.
-- ⚡ Fun fact: I love to learn, code, pray, and play all types of games.
+</div>
 
 ---
 
+## <picture><img src = "https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/about_me.gif" width = 50px></picture> About me
 
-### Connect with me: :smiley:
+- 🛠️ **Software Engineer** specializing in **Backend Development**
+- 💡 Passionate about building scalable systems & learning new technologies
+- 🔥 Hobby: Learning new tech, answering questions on [Stack Overflow](https://stackoverflow.com/users/1138192/a-l-w-a-y-s-s-u-n-n-y)
+- 💬 Ask me about anything data and database-related, and I'll try my best to help you.  
+- 🥅 2025 Goals: Learn and help others with what I have learned.  
+- ⚡ Fun fact: I love to learn, code, pray, and play all types of games.  
+---
 
-[<img align="left" alt="sany2k8.com" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sany2k8 | LinkedIn" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/linkedin.png" />][linkedin]
-[<img align="left" alt="sany2k8 | Stackoverflow" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/stackoverflow.png" />][activity]
-[<img align="left" alt="sany2k8 | Qwiklab" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/qwiklabs.svg" />][quicklab]
-[<img align="left" alt="sany2k8 | Github" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/github.png" />][github]
-[<img align="left" alt="sany2k8 | Skype" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/skype.svg" />][skype]
-[<img align="left" alt="sany2k8 | Gmail" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/gmail.svg" />][activity]
+### 🚀 Top Technologies
 
-<br/> <br/> <br/>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffd43b)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-### Programming Languages & Tools: :rocket:
+### 🌟 Highlight Projects
 
-[<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/php.png" />][phptag]
-[<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/python.png" />][pythontag]
-[<img align="left" alt="Apache Kafka" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/apachekafka.svg" />][activity]
-[<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/sql.png" />][sqltag]
-[<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/git.png" />][gittag]
-[<img align="left" alt="Elasticsearch" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/elasticsearch.png" />][elasticsearch]
-[<img align="left" alt="Solr" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/solr.png" />][solr]
-[<img align="left" alt="Pandas" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][pandas]
-[<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/mysql.png" />][mysqltag]
-[<img align="left" alt="REPL" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/repl-dot-it.svg" />][activity]
-[<img align="left" alt="PostGreSql" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/postgresql.png" />][postgrestag]
-[<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/javascript.png" />][jstag]
-[<img align="left" alt="Anaconda" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/anaconda.svg" />][activity]
-<br>
-[<img align="left" alt="AWS" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/aws.png" />][awstag]
-[<img align="left" alt="Regex" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/regex.jpeg"/>][regex]
-[<img align="left" alt="Yii" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/yii.png"/>][yii] 
-[<img align="left" alt="Json" width="45px" src="https://img.icons8.com/nolan/64/json.png"/>][json]
-[<img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/docker.png"/>][docker]
-[<img align="left" alt="Splunk" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/splunk.png"/>][splunk]
-[<img align="left" alt="PyCharm" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/pycharm.png"/>][pycharm]
-[<img align="left" alt="PhpStorm" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/phpstorm.png"/>][phpstorm]
-[<img align="left" alt="Ubuntu" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/ubuntu.png"/>][ubuntu]
-[<img align="left" alt="Vim" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/vim.png"/>][vim]
-[<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/terminal.png"/>][terminal]
-[<img align="left" alt="Swagger" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/swagger.svg" />][activity]
-[<img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/django-plain.svg" />]
-[<img align="left" alt="Jupyter" width="45px" src="https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/jupyter-original-wordmark.svg" />]
+- [deepl-fastmcp-python-server](https://github.com/AlwaysSany/deepl-fastmcp-python-server): Fast, scalable server for DeepL & MCP translation.
+- [doc-extract-parse-index](https://github.com/AlwaysSany/doc-extract-parse-index): Document parse, extraction & indexing toolkit with LlamaCloud.
+- [health-api](https://github.com/AlwaysSany/health-api): FastAPI based Health API wrapped by MCP.
+- [wikis](https://github.com/sany2k8/wikis): Collaborative wiki platform for multiple step by step guide.
+- [dictory](https://github.com/sany2k8/dictory): Dictionary utils for nested data structure.
+- [sany2k8](https://github.com/sany2k8/sany2k8): My GitHub profile, automation, and stats.
 
+---
 
-<br/> <br/> <br/>  <br/>
+### 🏆 GitHub Trophies
 
-<!-- [![Always Sunny StackOverflow](https://github-readme-stackoverflow.vercel.app?userID=1138192)](https://stackoverflow.com/users/1138192/always-sunny) -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sany2k8&margin-w=10&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/sany2k8/github-readme-stats">
-  <img align="center" width="436" src="https://github-readme-stats.vercel.app/api?username=sany2k8&show_icons=true&include_all_commits=true&theme=radical" alt="Sany's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany2k8&layout=compact&theme=radical" />
-</a>
+---
 
+#### 🗺️ Contribution Map
 
-<br/> <br/> 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sany2k8&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sany2k8" alt="sany2k8" /></a> </p>
+### 🔥 Contribution Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sany2k8&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-[profile]: https://stackoverflow.com/users/1138192/always-sunny?tab=profile
-[website]: https://stackoverflow.com/users/story/1138192
-[activity]: https://stackoverflow.com/users/1138192/always-sunny?tab=topactivity
-[quicklab]: https://www.qwiklabs.com/public_profiles/df9e282a-1e18-4aca-b807-68a66d150f41
-[linkedin]: https://www.linkedin.com/in/md-sany-ahmed-9ab00745
-[github]: https://github.com/sany2k8
-[skype]: https://join.skype.com/invite/tfJJHkOgewyZ
-[phptag]: https://stackoverflow.com/search?q=user:1138192+[php]
-[sqltag]: https://stackoverflow.com/search?q=user:1138192+[sql]
-[gittag]: https://stackoverflow.com/search?q=user:1138192+[git]
-[mysqltag]: https://stackoverflow.com/search?q=user:1138192+[mysql]
-[postgrestag]: https://stackoverflow.com/search?q=user:1138192+[postgres]
-[jstag]: https://stackoverflow.com/search?q=user:1138192+[js]
-[pythontag]: https://stackoverflow.com/search?q=user:1138192+[python]
-[awstag]: https://stackoverflow.com/search?q=user:1138192+[aws]
-[regex]: https://stackoverflow.com/search?q=user:1138192+[regex]
-[splunk]: https://stackoverflow.com/search?q=user:1138192+[splunk]
-[elasticsearch]: https://stackoverflow.com/search?q=user:1138192+[elasticsearch]
-[solr]: https://stackoverflow.com/search?q=user:1138192+[solr]
-[json]: https://stackoverflow.com/search?q=user:1138192+[json]
-[pandas]: https://stackoverflow.com/search?q=user:1138192+[pandas]
-[pycharm]: https://stackoverflow.com/search?q=user:1138192+[github]
-[docker]: https://stackoverflow.com/search?q=user:1138192+[docker]
-[ubuntu]: https://stackoverflow.com/search?q=user:1138192+[ubuntu]
-[phpstorm]: https://stackoverflow.com/search?q=user:1138192+[phpstorm]
-[yii]: https://stackoverflow.com/search?q=user:1138192+[yii]
-[vim]: https://stackoverflow.com/search?q=user:1138192+[vim]
-[terminal]: https://stackoverflow.com/search?q=user:1138192+[bash]
+---
+
+### 📫 Connect with Me
+
+- <img alt="LinkedIn" height="18" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="vertical-align:middle; margin-right:6px;"> [LinkedIn](https://www.linkedin.com/in/md-sany-ahmed-9ab00745/)
+- <img alt="Stack Overflow" height="18" src="https://cdn.simpleicons.org/stackoverflow/F48024" style="vertical-align:middle; margin-right:6px;"> [Stack Overflow](https://stackoverflow.com/users/1138192/a-l-w-a-y-s-s-u-n-n-y)
+- <img alt="Email" height="18" src="https://cdn.simpleicons.org/gmail/EA4335" style="vertical-align:middle; margin-right:6px;"> sany2k8@gmail.com
+---
+
+<div align="center">
+
+_Thanks for visiting!_
+
+</div>
