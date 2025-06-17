@@ -9,7 +9,7 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=sany2k8&style=for-the-badge&color=blue)](https://github.com/sany2k8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--sany--ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-sany-ahmed-9ab00745/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-AlwaysSanny-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1138192/a-l-w-a-y-s-s-u-n-n-y)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-AlwaysSunny-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1138192/a-l-w-a-y-s-s-u-n-n-y)
 
 </div>
 
