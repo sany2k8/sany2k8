@@ -62,6 +62,7 @@
 ### 🌟 Highlight Projects
 
 - [deepl-fastmcp-python-server](https://github.com/AlwaysSany/deepl-fastmcp-python-server): Fast, scalable server for DeepL & MCP translation.
+- [fastapi-multi-server-mcp](https://github.com/AlwaysSany/fastapi-multi-server-mcp): A comprehensive FastAPI application that hosts multiple MCP servers.
 - [doc-extract-parse-index](https://github.com/AlwaysSany/doc-extract-parse-index): Document parse, extraction & indexing toolkit with LlamaCloud.
 - [health-api](https://github.com/AlwaysSany/health-api): FastAPI based Health API wrapped by MCP.
 - [wikis](https://github.com/sany2k8/wikis): Collaborative wiki platform for multiple step by step guide.
