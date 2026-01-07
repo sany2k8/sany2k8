@@ -21,7 +21,7 @@
 - 💡 Passionate about building scalable systems & learning new technologies
 - 🔥 Hobby: Learning new tech, answering questions on [Stack Overflow](https://stackoverflow.com/users/1138192/a-l-w-a-y-s-s-u-n-n-y)
 - 💬 Ask me about anything data and database-related, and I'll try my best to help you.  
-- 🥅 2025 Goals: Learn and help others with what I have learned.  
+- 🥅 2026 Goals: Learn and help others with what I have learned.  
 - ⚡ Fun fact: I love to learn, code, pray, and play all types of games.  
 ---
 
