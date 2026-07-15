@@ -40,7 +40,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3670A0?style=for-the-badge&logo=kubernetes&logoColor=ffd43b)
-![Ansible](https://img.shields.io/badge/Ansible-3670A0?style=for-the-badge&logo=ansible&logoColor=ffd43b)
+![Ansible](https://img.shields.io/badge/Ansible-3670A0?style=for-the-badge&logo=ansible&logoColor=red)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
