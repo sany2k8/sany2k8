@@ -75,11 +75,13 @@
 
 ---
 
+<!--
 ### 🏆 GitHub Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sany2k8&margin-w=10&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+-->
 
 #### 🗺️ Contribution Map
 
