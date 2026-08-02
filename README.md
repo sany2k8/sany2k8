@@ -15,6 +15,13 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Designing+Scalable+Distributed+Systems;Python+%7C+FastAPI+%7C+PostgreSQL;Redis+%7C+MongoDB+%7C+Elasticsearch;AWS+%7C+GCP+%7C+Linux;Docker+%7C+Kubernetes+%7C+Ansible;REST+%7C+gRPC+%7C+GraphQL"
+    alt="Typing SVG"
+  />
+</p>
+
 ## <picture><img src = "https://raw.githubusercontent.com/sany2k8/sany2k8/master/images/about_me.gif" width = 50px></picture> About me
 
 - 🛠️ **Software Engineer** specializing in **Backend Development**
